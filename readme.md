@@ -1,6 +1,6 @@
 # Complex Number Calculator
 
-Gui application that uses wxWidgets (and Catch2 library for unit-tests) and implements a simple calculator for operations with complex number.
+Gui application that uses wxWidgets (and Catch2 library for unit-tests) and implements a simple calculator for operations with complex numbers.
 
 Implemented in C++
 
